@@ -4,7 +4,7 @@ import { AppModule } from './app.module';
 //MAIN
 //2323432432
 //new functionality
-
+//clear code
 
 const start = async () => {
   try {
@@ -18,6 +18,3 @@ const start = async () => {
 };
 
 start();
-//123
-//post
-
