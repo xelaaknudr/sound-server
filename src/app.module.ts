@@ -5,6 +5,8 @@ import { FileModule } from './file/file.module';
 import * as path from 'path';
 import { ServeStaticModule } from '@nestjs/serve-static';
 
+const obj = {};
+const arr = []
 console.log()
 @Module({
   imports: [
