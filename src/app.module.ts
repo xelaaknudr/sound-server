@@ -8,6 +8,9 @@ import { ServeStaticModule } from '@nestjs/serve-static';
 console.log('232424242');
 console.log('123123123131');
 console.log('232342423');
+const obj = {};
+const arr = []
+console.log()
 
 @Module({
   imports: [
