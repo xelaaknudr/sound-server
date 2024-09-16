@@ -1,7 +1,10 @@
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 
-//clear code
+//MAIN
+//2323432432
+
+//555
 
 const start = async () => {
   try {
