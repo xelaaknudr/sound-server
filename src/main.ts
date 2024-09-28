@@ -4,6 +4,7 @@ import { AppModule } from './app.module';
 //clear code
 
 const start = async () => {
+  console.log('1234');
   try {
     const PORT = process.env.PORT || 5000;
     const app = await NestFactory.create(AppModule);
